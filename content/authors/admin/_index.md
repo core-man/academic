@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yao Jiayuan
+title: Jiayuan Yao
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow at NTU
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Nanyang Technological University
-  url: "http://spms.ntu.edu.sg"
+  url: http://spms.ntu.edu.sg
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -56,15 +56,18 @@ social:
   link: https://core-man.github.io/blog
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jiayuanyao@ntu.edu.sg'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:jiayuanyao@ntu.edu.sg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: YaoJiayuan-CV.pdf
+  link: files/YaoJiayuan-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,7 +75,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Jiayuan Yao was a Research Fellow in Geophysics at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping).
-He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
+Yao Jiayuan is a seismologist. His research covers structures of the Earth’s deep interior,
+seismic imaging, and seismic monitoring.
 
-His research interests include the seismic structure of the Earth’s interior with special focus on the lower mantle and inner core, seismic monitoring of North Korea's nuclear tests, high-precision locations of earthquakes, and repeating earthquakes. He’s working on the project of [joint inversion of multiple seismic data in Myanmar]({{< ref "/project/seismic-imaging/index.md" >}}).
+He was a Research Fellow in Geophysics from 2018/08 to 2021/09 at
+[Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with
+Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping).
+He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).

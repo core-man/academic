@@ -17,7 +17,8 @@ the fastest static site generator [Hugo](https://gohugo.io/).
 
 To build it locally, you need to follow the steps below:
 
-1.  [Install hugo](https://gohugo.io/getting-started/installing/)
+1.  Install [go](https://golang.org/) and
+    [hugo](https://gohugo.io/getting-started/installing/)
 
 2.  Clone the repository
 
@@ -30,7 +31,7 @@ To build it locally, you need to follow the steps below:
 3.  Build the website
 
 	Run the following command, then you can view the site by visiting
-    http://localhost:1313/links/ in your local web browser.
+    http://localhost:1313/academic/ in your local web browser.
 
     ```
     $ hugo server
@@ -41,12 +42,3 @@ To build it locally, you need to follow the steps below:
 ```
 $ sh update_wowchemy.sh
 ```
-
-## License
-
-This material uses [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.en).
-You are free to share and adapt the material as long as you follow the following
-license terms:
-
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- NonCommercial: You may not use the material for commercial purposes.

@@ -29,18 +29,18 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
   # gradient_end = "SkyBlue"
 
   # Background image.
-  #image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  #image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  #text_color_light = true
+  # text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["40px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS.
@@ -50,10 +50,15 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
-- **May 21, 2019**: The paper on *Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?* has been accepted at [JGR](https://doi.org/10.1029/2019JB017532).
+-  **May 21, 2019**:
+   The paper on
+   *Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?*
+   has been accepted at [JGR](https://doi.org/10.1029/2019JB017532).
 
-- **Sep. 20, 2018**: The paper on source characteristics of North Korea's 2017 nuclear test has been published [online](https://doi.org/10.1785/0220180134
-) at *SRL*.
+-  **Sep. 20, 2018**:
+   The paper on source characteristics of North Korea's 2017 nuclear test has
+   been published at [*SRL*](https://doi.org/10.1785/0220180134).
 
-- **Sep. 20, 2018**: The paper on triggerred seismicity after North Korea's 2017 nuclear test has been published [online](https://doi.org/10.1785/0220180135) at *SRL*.
-
+-  **Sep. 20, 2018**:
+   The paper on triggerred seismicity after North Korea's 2017 nuclear test has
+   been published [*SRL*](https://doi.org/10.1785/0220180135).
