@@ -2,8 +2,13 @@
 
 [![Deploy](https://github.com/core-man/academic/actions/workflows/deploy.yml/badge.svg)](https://github.com/core-man/academic/actions/workflows/deploy.yml)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
+![GitHub repo size](https://img.shields.io/github/repo-size/core-man/academic)
 
-This repository contains the source codes for Yao Jiayuan's academic homepage.
+This repository contains the source codes for my academic homepage.
+
+- Website: https://core-man.github.io/academic/
+- Themed by [Wowchemy](https://wowchemy.com/)
+- Powered by [Hugo](https://gohugo.io/)
 
 ## Build the site locally
 
@@ -30,6 +35,12 @@ To build it locally, you need to follow the steps below:
     ```
     $ hugo server
     ```
+
+## Update theme
+
+```
+$ sh update_wowchemy.sh
+```
 
 ## License
 
