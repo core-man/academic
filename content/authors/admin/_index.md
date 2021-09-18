@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiayuan Yao
+title: Yao Jiayuan
 
 # Username (this should match the folder name)
 authors:
@@ -24,8 +24,6 @@ interests:
 - Seismic Imaging
 - Structures of the Earth's Deep Interior
 - Seismic Monitoring
-- Repeating Earthquake
-- Inverse Problems
 
 education:
   courses:
