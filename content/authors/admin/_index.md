@@ -21,8 +21,8 @@ organizations:
 bio:
 
 interests:
+- Structures of the Earth’s Deep Interior
 - Seismic Imaging
-- Structures of the Earth's Deep Interior
 - Seismic Monitoring
 
 education:
@@ -61,7 +61,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: Jiayuan-Yao-CV.pdf
+  link: YaoJiayuan-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
-Jiayuan Yao is a Research Fellow in Geophysics at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping). He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
+Jiayuan Yao was a Research Fellow in Geophysics at [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping).
+He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
 
 His research interests include the seismic structure of the Earth’s interior with special focus on the lower mantle and inner core, seismic monitoring of North Korea's nuclear tests, high-precision locations of earthquakes, and repeating earthquakes. He’s working on the project of [joint inversion of multiple seismic data in Myanmar]({{< ref "/project/seismic-imaging/index.md" >}}).
