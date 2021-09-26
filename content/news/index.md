@@ -7,6 +7,13 @@ header:
   image: ""
 ---
 
+### 2021
+
+- **Sept. 3, 2021**:
+  Yao Jiayuan has finished the contract with
+  [Nanyang Technological University](http://spms.ntu.edu.sg/).
+  He will go back to China for his next academic stage.
+
 ### 2019
 
 -  **May 21, 2019**:

@@ -50,15 +50,12 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
--  **May 21, 2019**:
-   The paper on
-   *Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?*
-   has been accepted at [JGR](https://doi.org/10.1029/2019JB017532).
+- **Sept. 3, 2021**:
+  Yao Jiayuan has finished the contract with
+  [Nanyang Technological University](http://spms.ntu.edu.sg/).
+  He will go back to China for his next academic stage.
 
--  **Sep. 20, 2018**:
-   The paper on source characteristics of North Korea's 2017 nuclear test has
-   been published at [*SRL*](https://doi.org/10.1785/0220180134).
-
--  **Sep. 20, 2018**:
-   The paper on triggerred seismicity after North Korea's 2017 nuclear test has
-   been published [*SRL*](https://doi.org/10.1785/0220180135).
+- **May 21, 2019**:
+  The paper on
+  *Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?*
+  has been accepted at [JGR](https://doi.org/10.1029/2019JB017532).
