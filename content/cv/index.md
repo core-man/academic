@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 ---
 
-[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](/files/YaoJiayuan-CV.pdf).
+[{{< icon name="file-pdf" pack="fas" >}}Download my full CV here](YaoJiayuan-CV.pdf).
 
 ---
 
