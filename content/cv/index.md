@@ -17,6 +17,8 @@ title: Curriculum Vitae
 
 ### Academic Positions
 
+- **2021/11–Present**: Associate Professor,
+  [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/)
 - **2021/04–2021/09**: Research Fellow,
   [Earth Observatory of Singapore](https://earthobservatory.sg/)
 - **2018/08–2021/03**: Research Fellow,
