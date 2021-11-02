@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiayuan Yao
+title: Yao Jiayuan
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Nanyang Technological University
-  url: http://spms.ntu.edu.sg
+- name: China University of Geosciences (Wuhan)
+  url: https://www.cug.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
