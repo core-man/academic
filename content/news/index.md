@@ -11,7 +11,7 @@ header:
 
 - **Nov. 1, 2021**:
   Yao Jiayuan joined
-  [Institute of Geophysics & Geomatics](https://dkxy.cug.edu.cn/) at
+  [Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/) at
   [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/)
   as an associate professor.
 
