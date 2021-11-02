@@ -50,6 +50,12 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
+- **Nov. 1, 2021**:
+  Yao Jiayuan joined
+  [Institute of Geophysics & Geomatics](https://dkxy.cug.edu.cn/) at
+  [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/)
+  as an associate professor.
+
 - **Sept. 3, 2021**:
   Yao Jiayuan has finished the contract with
   [Nanyang Technological University](http://spms.ntu.edu.sg/).

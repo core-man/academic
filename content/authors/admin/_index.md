@@ -78,7 +78,10 @@ user_groups:
 Yao Jiayuan is a seismologist. His research covers structures of the Earth’s deep interior,
 seismic imaging, and seismic monitoring.
 
-He was a Research Fellow in Geophysics from 2018/08 to 2021/09 at
+He is now an associate professor of
+[Institute of Geophysics & Geomatics](https://dkxy.cug.edu.cn/)
+at [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/).
+He was a research fellow in geophysics from 2018/08 to 2021/09 at
 [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with
 Prof. [Ping Tong](http://www.ntu.edu.sg/home/tongping).
 He received his Ph.D. degree from [University of Science and Technology of China](http://en.ustc.edu.cn) in 2018 advised by Prof. [Lianxing Wen](http://geophysics.geo.sunysb.edu/wen).
