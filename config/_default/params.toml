@@ -88,16 +88,16 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jiayaunyao@ntu.edu.sg"
+email = "yaojiayuan@cug.edu.cn"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "21 Nanyang Link", city = "Singapore", region = "", postcode = "637371", country = "Singapore", country_code = "SG"}
+address = {street = "388 Lumo Road", city = "Wuhan", region = "", postcode = "430074", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "1.341978", longitude = "103.682184"}
+coordinates = {latitude = "30", longitude = "115"}
 
 # Directions for visitors to locate you.
 directions = ""
