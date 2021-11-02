@@ -79,7 +79,7 @@ Yao Jiayuan is a seismologist. His research covers structures of the Earth’s d
 seismic imaging, and seismic monitoring.
 
 He is now an associate professor of
-[Institute of Geophysics & Geomatics](https://dkxy.cug.edu.cn/)
+[Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/)
 at [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/).
 He was a research fellow in geophysics from 2018/08 to 2021/09 at
 [Nanyang Technological University](http://spms.ntu.edu.sg), cooperation with
