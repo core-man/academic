@@ -7,6 +7,13 @@ header:
   image: ""
 ---
 
+### 2022
+
+- **Feb. 21, 2022**:
+  The paper on
+  [Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves](https://doi.org/10.1029/2021JB023033)
+  has been accepted at *Journal of Geophysical Research: Solid Earth*.
+
 ### 2021
 
 - **Nov. 1, 2021**:

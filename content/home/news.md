@@ -50,6 +50,12 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
+
+- **Feb. 21, 2022**:
+  The paper on
+  [Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves](https://doi.org/10.1029/2021JB023033)
+  has been accepted at *Journal of Geophysical Research: Solid Earth*.
+
 - **Nov. 1, 2021**:
   Yao Jiayuan joined
   [Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/) at
@@ -60,8 +66,3 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
   Yao Jiayuan has finished the contract with
   [Nanyang Technological University](http://spms.ntu.edu.sg/).
   He will go back to China for his next academic stage.
-
-- **May 21, 2019**:
-  The paper on
-  *Temporal change of seismic Earth's inner core phases: inner core differential rotation or temporal change of inner core surface?*
-  has been accepted at [JGR](https://doi.org/10.1029/2019JB017532).
