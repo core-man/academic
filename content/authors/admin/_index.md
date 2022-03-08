@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-- Structures of the Earth’s Deep Interior
-- Seismic Imaging
-- Seismic Monitoring
+- Deep Earth structure
+- Earthquake locations
+- Seismic imaging
 
 education:
   courses:
@@ -75,8 +75,8 @@ user_groups:
 - Principal Investigators
 ---
 
-Yao Jiayuan is a seismologist. His research covers structures of the Earth’s deep interior,
-seismic imaging, and seismic monitoring.
+Yao Jiayuan is a seismologist. His research covers deep Earth structure,
+earthquake locations, and seismic imaging.
 
 He is now an associate professor of
 [Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/)
