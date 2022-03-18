@@ -50,6 +50,10 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
+- **Mar. 18, 2022**:
+  The paper on
+  [Adjoint tomography of northeast Japan revealed by common‐source double‐difference travel‐time data](https://doi.org/10.1785/0220210317)
+  has been published at *Seismological Research Letters*.
 
 - **Feb. 21, 2022**:
   The paper on
@@ -61,8 +65,3 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
   [Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/) at
   [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/)
   as an associate professor.
-
-- **Sept. 3, 2021**:
-  Yao Jiayuan has finished the contract with
-  [Nanyang Technological University](http://spms.ntu.edu.sg/).
-  He will go back to China for his next academic stage.

@@ -9,6 +9,11 @@ header:
 
 ### 2022
 
+- **Mar. 18, 2022**:
+  The paper on
+  [Adjoint tomography of northeast Japan revealed by common‐source double‐difference travel‐time data](https://doi.org/10.1785/0220210317)
+  has been published at *Seismological Research Letters*.
+
 - **Feb. 21, 2022**:
   The paper on
   [Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves](https://doi.org/10.1029/2021JB023033)
