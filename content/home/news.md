@@ -50,6 +50,11 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
+- **Mar. 30, 2022**:
+  The paper on
+  [Imaging the upper 10 km crustal shear‐wave velocity structure of central Myanmar via a joint inversion of P‐Wave polarizations and receiver functions](https://doi.org/10.1785/0220210292)
+  has been published at *Seismological Research Letters*.
+
 - **Mar. 18, 2022**:
   The paper on
   [Adjoint tomography of northeast Japan revealed by common‐source double‐difference travel‐time data](https://doi.org/10.1785/0220210317)
@@ -59,9 +64,3 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
   The paper on
   [Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves](https://doi.org/10.1029/2021JB023033)
   has been accepted at *Journal of Geophysical Research: Solid Earth*.
-
-- **Nov. 1, 2021**:
-  Yao Jiayuan joined
-  [Institute of Geophysics and Geomatics](https://dkxy.cug.edu.cn/) at
-  [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/)
-  as an associate professor.

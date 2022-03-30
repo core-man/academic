@@ -9,6 +9,11 @@ header:
 
 ### 2022
 
+- **Mar. 30, 2022**:
+  The paper on
+  [Imaging the upper 10 km crustal shear‐wave velocity structure of central Myanmar via a joint inversion of P‐Wave polarizations and receiver functions](https://doi.org/10.1785/0220210292)
+  has been published at *Seismological Research Letters*.
+
 - **Mar. 18, 2022**:
   The paper on
   [Adjoint tomography of northeast Japan revealed by common‐source double‐difference travel‐time data](https://doi.org/10.1785/0220210317)
