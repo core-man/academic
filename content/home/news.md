@@ -50,7 +50,7 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
-- **Apr. 21, 2022**:
+- **Apr. 21, 2023**:
   The paper on
   [Rapid along-strike variations of shallow crustal structure in response to Indo-Burma subduction: Constraints from multi-type passive seismic data](https://doi.org/10.1016/j.epsl.2023.118105)
   has been published at *Earth and Planetary Science Letters*.
