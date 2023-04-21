@@ -50,6 +50,11 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
  css_class = ""
 +++
 
+- **Apr. 21, 2022**:
+  The paper on
+  [Rapid along-strike variations of shallow crustal structure in response to Indo-Burma subduction: Constraints from multi-type passive seismic data](https://doi.org/10.1016/j.epsl.2023.118105)
+  has been published at *Earth and Planetary Science Letters*.
+
 - **Mar. 30, 2022**:
   The paper on
   [Imaging the upper 10 km crustal shear‐wave velocity structure of central Myanmar via a joint inversion of P‐Wave polarizations and receiver functions](https://doi.org/10.1785/0220210292)
@@ -59,8 +64,3 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](./news)"
   The paper on
   [Adjoint tomography of northeast Japan revealed by common‐source double‐difference travel‐time data](https://doi.org/10.1785/0220210317)
   has been published at *Seismological Research Letters*.
-
-- **Feb. 21, 2022**:
-  The paper on
-  [Moho Complexity in Southern California Revealed by Local PmP and Teleseismic Ps Waves](https://doi.org/10.1029/2021JB023033)
-  has been accepted at *Journal of Geophysical Research: Solid Earth*.
