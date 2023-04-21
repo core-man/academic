@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inner Core Boundary | Yao Jiayuan</title>
+    <link>https://core-man.github.io/academic/tag/inner-core-boundary/</link>
+      <atom:link href="https://core-man.github.io/academic/tag/inner-core-boundary/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inner Core Boundary</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023 Yao Jiayuan</copyright><lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Inner Core Boundary</title>
+      <link>https://core-man.github.io/academic/tag/inner-core-boundary/</link>
+    </image>
+    
+    <item>
+      <title>Inner Core Boundary</title>
+      <link>https://core-man.github.io/academic/project/inner-core-boundary/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic/project/inner-core-boundary/</guid>
+      <description>&lt;p&gt;The nature of Earth&amp;rsquo;s inner core boundary (ICB) provides key information about
+the inner core solidification process and the driving forces for
+thermo-compositional convection in the outer core and the Earth&amp;rsquo;s geodynamo.
+The traditional views have been that the inner core growing process is
+geologically slow and geographically uniform, due to the vigorous
+small-scale convection in the outer core. Recent studies, however, revealed that
+the ICB is locally enlarged by 0.98–1.75 km beneath Africa between 1993 and 2003,
+and exhibits significant topography. Therefore, temporal change of inner core surface
+in the global scale and the longer time scale would give us a better understanding
+of the evolution of the Earth’s core.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-temporal-change-of-inner-core-surface-beneath-africa-atlantic-ocean-and-indian-ocean&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;ICB temporal change&#34; srcset=&#34;
+               /academic/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_41c824278e4c603730841e05dc6194cd.jpg 400w,
+               /academic/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_073658f2d11cf0a3c699327342f4b75c.jpg 760w,
+               /academic/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;https://core-man.github.io/academic/academic/project/inner-core-boundary/Africa_ICB_hu8b397b385841c24c16cbf456c80431fe_3282161_41c824278e4c603730841e05dc6194cd.jpg&#34;
+               width=&#34;472&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Figure 1: Temporal change of inner core surface beneath Africa, Atlantic Ocean, and Indian Ocean.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

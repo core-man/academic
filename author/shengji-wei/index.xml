@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shengji Wei | Yao Jiayuan</title>
+    <link>https://core-man.github.io/academic/author/shengji-wei/</link>
+      <atom:link href="https://core-man.github.io/academic/author/shengji-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shengji Wei</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023 Yao Jiayuan</copyright><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shengji Wei</title>
+      <link>https://core-man.github.io/academic/author/shengji-wei/</link>
+    </image>
+    
+    <item>
+      <title>New insights into the structural heterogeneity and geodynamics of the Indo-Burma subduction zone from ambient noise tomography</title>
+      <link>https://core-man.github.io/academic/publication/2021-wu-epsl/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic/publication/2021-wu-epsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slab Models Beneath Central Myanmar Revealed by a Joint Inversion of Regional and Teleseismic Traveltime Data</title>
+      <link>https://core-man.github.io/academic/publication/2021-yao-jgr/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic/publication/2021-yao-jgr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

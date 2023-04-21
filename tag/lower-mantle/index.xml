@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lower Mantle | Yao Jiayuan</title>
+    <link>https://core-man.github.io/academic/tag/lower-mantle/</link>
+      <atom:link href="https://core-man.github.io/academic/tag/lower-mantle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lower Mantle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023 Yao Jiayuan</copyright><lastBuildDate>Fri, 17 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lower Mantle</title>
+      <link>https://core-man.github.io/academic/tag/lower-mantle/</link>
+    </image>
+    
+    <item>
+      <title>Lower Mantle</title>
+      <link>https://core-man.github.io/academic/project/lower-mantle/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic/project/lower-mantle/</guid>
+      <description>&lt;p&gt;The core-mantle boundary (CMB) is one of the most important interfaces in the Earth’s interior and plays a key role in the geodynamical evolution of the planet. Many studies have reported existence of ultra-low velocity zones (ULVZs) at the CMB, which are characterized by zones of variable thickness of ∼5–50 km with negative P and S velocity perturbations of 10% or greater. Mapping the geographic presence of ULVZs and their relationship to the surrounding velocity structure would place important constraints on the origin of ULVZs, dynamical and chemical evolution of the Earth’s mantle and origin of the hotspots.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-seismic-structure-and-ultra-low-velocity-zones-at-the-base-of-the-earths-mantle-beneath-southeast-asia&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;ULVZ beneath SEAsia&#34; srcset=&#34;
+               /academic/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_b7c1c5e137e79c6dcb7713dced6964d9.jpg 400w,
+               /academic/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_5b5d9ac7fe7b576be67638e125ca8570.jpg 760w,
+               /academic/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_1200x1200_fit_q90_lanczos.jpg 1200w&#34;
+               src=&#34;https://core-man.github.io/academic/academic/project/lower-mantle/CMB_cartoon_hu8b397b385841c24c16cbf456c80431fe_1186687_b7c1c5e137e79c6dcb7713dced6964d9.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;401&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Seismic structure and ultra-low velocity zones at the base of the Earth’s mantle beneath Southeast Asia.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

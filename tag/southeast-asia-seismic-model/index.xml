@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Southeast Asia Seismic Model | Yao Jiayuan</title>
+    <link>https://core-man.github.io/academic/tag/southeast-asia-seismic-model/</link>
+      <atom:link href="https://core-man.github.io/academic/tag/southeast-asia-seismic-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>Southeast Asia Seismic Model</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018-2023 Yao Jiayuan</copyright><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://core-man.github.io/academic/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Southeast Asia Seismic Model</title>
+      <link>https://core-man.github.io/academic/tag/southeast-asia-seismic-model/</link>
+    </image>
+    
+    <item>
+      <title>Southeast Asia Seismic Model</title>
+      <link>https://core-man.github.io/academic/project/seismic-model-seasia/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://core-man.github.io/academic/project/seismic-model-seasia/</guid>
+      <description>&lt;p&gt;We are performing the joint inversion of multiple seismological data to invert
+seismic structures of the mainland Southeast Asia.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
